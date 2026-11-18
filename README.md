@@ -15,7 +15,7 @@
 6. Gestin Raharja (20231000041)
 
 ## Video Milestone 1
-> **Tautan video (YouTube Unlisted / Google Drive):** (https://drive.google.com/file/d/1NFFfYHBRFPccxBZX0wQziAWkTfOdZ3RO/view?usp=sharing)
+(https://drive.google.com/file/d/1NFFfYHBRFPccxBZX0wQziAWkTfOdZ3RO/view?usp=sharing)
 
 ## Struktur repositori
 ```
