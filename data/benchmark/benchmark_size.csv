@@ -1,0 +1,9 @@
+dataset,format,size_mb,write_s
+transactions,CSV,130.56562,5.90787206899995
+transactions,JSONL,330.311519,5.988352616000043
+transactions,Parquet (snappy),37.053806,0.9078812280000648
+transactions,Parquet (zstd),26.849136,1.003670593000038
+clickstream,CSV,21.995368,0.9416697829999521
+clickstream,JSONL,52.351456,0.7822143789999245
+clickstream,Parquet (snappy),6.863816,0.17723474299998543
+clickstream,Parquet (zstd),4.824632,0.19234732500001428

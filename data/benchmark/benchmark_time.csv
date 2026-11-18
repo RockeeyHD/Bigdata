@@ -1,0 +1,29 @@
+dataset,format,workload,seconds
+transactions,CSV,Baca penuh (semua kolom),2.9576020219999464
+transactions,CSV,Q1 revenue kota x kategori,1.191814478000083
+transactions,CSV,Q2 frekuensi & monetary per customer,1.5187690259999727
+transactions,CSV,Q3 revenue bulanan,1.6194218269999965
+transactions,JSONL,Baca penuh (semua kolom),9.86700392199998
+transactions,JSONL,Q1 revenue kota x kategori,10.117474641000058
+transactions,JSONL,Q2 frekuensi & monetary per customer,10.536545353000065
+transactions,JSONL,Q3 revenue bulanan,10.78918803099998
+transactions,Parquet (snappy),Baca penuh (semua kolom),0.2021919279999338
+transactions,Parquet (snappy),Q1 revenue kota x kategori,0.18389479799998298
+transactions,Parquet (snappy),Q2 frekuensi & monetary per customer,0.20237756000005902
+transactions,Parquet (snappy),Q3 revenue bulanan,0.17351611800006594
+transactions,Parquet (zstd),Baca penuh (semua kolom),0.22532294099994488
+transactions,Parquet (zstd),Q1 revenue kota x kategori,0.18656180200002837
+transactions,Parquet (zstd),Q2 frekuensi & monetary per customer,0.32303968999997323
+transactions,Parquet (zstd),Q3 revenue bulanan,0.15693954400001076
+clickstream,CSV,Baca penuh (semua kolom),0.737007761999962
+clickstream,CSV,Q1 event per aksi x device,0.20754363100002138
+clickstream,CSV,Q2 sesi unik per hari,0.37417333899998084
+clickstream,JSONL,Baca penuh (semua kolom),1.1901264849999507
+clickstream,JSONL,Q1 event per aksi x device,1.0788584489999948
+clickstream,JSONL,Q2 sesi unik per hari,1.1716289159999178
+clickstream,Parquet (snappy),Baca penuh (semua kolom),0.05280242699996052
+clickstream,Parquet (snappy),Q1 event per aksi x device,0.03154821400005403
+clickstream,Parquet (snappy),Q2 sesi unik per hari,0.05681920300003185
+clickstream,Parquet (zstd),Baca penuh (semua kolom),0.03438583699994524
+clickstream,Parquet (zstd),Q1 event per aksi x device,0.029650339999989228
+clickstream,Parquet (zstd),Q2 sesi unik per hari,0.07416650299990124
