@@ -1,10 +1,21 @@
 # E-Commerce & Retail Analytics - Milestone 1
 **Status output:** Data Synthesis, Data Cleansing & Storage Benchmark
 
-**Anggota kelompok:** _(isi 5-6 nama & NIM)_
+**Anggota kelompok:** 
+1. Raymond Raymond (20231000036)
+
+2. Santiago Haristyo (20231000033)
+
+3. Doni (20231000025)
+
+4. Kiyosaka Eka Wijaya (20231000027)
+
+5. Elfan Dharma Tirta (20231000015)
+
+6. Gestin Raharja (20231000041)
 
 ## Video Milestone 1
-> **Tautan video (YouTube Unlisted / Google Drive):** _(tempel tautan di sini)_  - durasi 3-5 menit
+> **Tautan video (YouTube Unlisted / Google Drive):** (https://drive.google.com/file/d/1NFFfYHBRFPccxBZX0wQziAWkTfOdZ3RO/view?usp=sharing)
 
 ## Struktur repositori
 ```
