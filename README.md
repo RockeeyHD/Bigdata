@@ -87,11 +87,3 @@ Waktu (detik) pada `transactions`:
 Parquet 6-15x lebih cepat dari CSV dan sekitar 50x lebih cepat dari JSONL pada data transaksi. Tabel clickstream dan grafik lengkap ada di notebook dan `data/benchmark/`.
 
 **Rencana M2 (PySpark):** bronze (skema eksplisit, partisi per bulan) -> silver (cleansing, broadcast join dimensi customers) -> gold (RFM, cohort, funnel/sessionization dengan window function); uji AQE, jumlah shuffle partition, dan caching; bandingkan pandas vs PySpark.
-
-## Naskah video (3-5 menit)
-| Bagian | Durasi | Pembicara | Isi |
-|---|---|---|---|
-| 1 | 1,0 mnt | 1 | Latar belakang masalah, target analisis, skema 3 dataset (tabel di atas). |
-| 2 | 1,5 mnt | 2 | Jalankan generator, tunjukkan tabel profiling kekotoran (7,9%) dan `injection_log.json`; demo fungsi cleansing, log langkah, dan validasi `assert`. |
-| 3 | 1,5 mnt | 1-2 | Eksekusi benchmark: ukuran file dan waktu baca/query CSV vs JSONL vs Parquet (tampilkan grafik). |
-| 4 | 1,0 mnt | 1 | Ringkasan hasil (Parquet -72% ukuran, 6-15x lebih cepat) dan rencana arsitektur PySpark M2. |
